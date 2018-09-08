@@ -1,0 +1,2 @@
+# QCBaseProjectForTest
+因为经常要写测试，所以自己搞了一个BaseProject，下次可以直接拿来用，不用再做依赖，节省时间给Practice
